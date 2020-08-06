@@ -71,7 +71,7 @@ sub new {
 }
 
 sub version {
-    return '2.3';
+    return '2.4-test';
 }
 
 sub feature_types {
